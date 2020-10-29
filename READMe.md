@@ -8,6 +8,7 @@ This project is carried out under the Linux environment. The specific programmin
 
 <p align="center" >
  sudo apt install python3.7
+   
  sudo apt install python3-pip
 </p>
 

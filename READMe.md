@@ -48,15 +48,18 @@ After restarting the system, input the following commands in turn for partition 
 
 
 <p align="center" >
-   
  fdisk /dev/sdb
-
+ 
+ <p align="center" >
 m(help)
- 
+  
+ <p align="center" >
 n(create a new patition)
-
-1(choose patition number)
  
+ <p align="center" >
+1(choose patition number)
+  
+ <p align="center" >
 w(write the result) 
 
 </p>

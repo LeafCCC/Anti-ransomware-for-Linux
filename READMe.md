@@ -7,10 +7,8 @@ This project is carried out under the Linux environment. The specific programmin
 
 
 <p align="center">
-   
-**sudo apt install python3.7**
-
-**sudo apt install python3-pip**
+ **sudo apt install python3.7**
+ **sudo apt install python3-pip**
 </p>
 
 If you point to python3.6 when using the pip command, you only need to use **python3.7 - m pip install** during installation:

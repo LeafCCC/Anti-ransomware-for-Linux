@@ -6,7 +6,7 @@
 This project is carried out under the Linux environment. The specific programming language is python3.7. Ubuntu 18.04 in Linux has its own Python 3.6. If you need to upgrade to 3.7, the process is as follows:
 
 
-<p align="center" style="font-weight:bold;">
+<p align="center" style="font-weight:bold">
  sudo apt install python3.7
  sudo apt install python3-pip
 </p>

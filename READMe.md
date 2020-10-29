@@ -69,3 +69,7 @@ w(write the result)
 Use the instruction **lsblk - f** to check. If sdb1 appears, it means that the partition is successful.
 
 Finally,format it: **mkfs -t ext4 /dev/sdb1**
+
+## 3. Operation effect display
+
+![display1.png](https://i.loli.net/2020/10/29/RrJqN5gliIvZjG3.png)

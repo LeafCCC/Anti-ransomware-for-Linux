@@ -8,24 +8,34 @@ This project is carried out under the Linux environment. The specific programmin
 
 <p align="center" >
  sudo apt install python3.7
-   
+ 
+ <p align="center" >
  sudo apt install python3-pip
-</p>
+
 
 If you point to python3.6 when using the pip command, you only need to use **python3.7 - m pip install** during installation:
 
 <p align="center" >
-   
 pip3 install pyinotify
 
+ 
+ <p align="center" >
 pip3 install shutil
 
+ 
+ <p align="center" >
 pip3 install configparser
 
+ 
+ <p align="center" >
 pip3 install psutil
 
+ 
+ <p align="center" >
 pip3 install watchdog
 
+ 
+ <p align="center" >
 pip3 install PyQt5 </p>
 
 Before using the backup function, you need to set up the disk partition. In this document, you can use the virtual machine for related operations.

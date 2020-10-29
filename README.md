@@ -6,6 +6,7 @@
 This project is carried out under the Linux environment. The specific programming language is python3.7. Ubuntu 18.04 in Linux has its own Python 3.6. If you need to upgrade to 3.7, the process is as follows:
 
 <center>
+   
 **sudo apt install python3.7**
 
 **sudo apt install python3-pip**
@@ -13,7 +14,9 @@ This project is carried out under the Linux environment. The specific programmin
 
 If you point to python3.6 when using the pip command, you only need to use **python3.7 - m pip install** during installation:
 
-<center>**pip3 install pyinotify** 
+<center>
+   
+ **pip3 install pyinotify** 
 
 **pip3 install shutil** 
 
@@ -34,7 +37,9 @@ Under VMware: virtual machine > Settings > Add > hard disk > SCSI > create a new
 After restarting the system, input the following commands in turn for partition operation:
 
 
-<center>**fdisk /dev/sdb**
+<center>
+   
+**fdisk /dev/sdb**
 
 **m(help)** 
  
@@ -42,7 +47,8 @@ After restarting the system, input the following commands in turn for partition 
 
 **1(choose patition number)**
  
-**w(write the result)** </center>
+**w(write the result)** 
+</center>
 
 
 

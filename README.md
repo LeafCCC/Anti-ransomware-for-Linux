@@ -1,5 +1,5 @@
 ## 1. Introduction
-   This repository is a simple project to protect the Linux system from ransomware.AS it is just a contest project by undergraduates, we can't ensure sufficient effectiveness.Thus, please still be cautious when you use it.
+   This repository is a simple project to protect the Linux system from ransomware.As it is just a contest project by undergraduates, we can't ensure sufficient effectiveness.Thus, please still be cautious when you use it.
 ## 2. Environment construction
 
 
